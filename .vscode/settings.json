@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1310286d-4161-404b-b6eb-6a936fac3555/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HITWAppCompagnon",
+    "appService.deploySubpath": "."
+}
